@@ -1,0 +1,11 @@
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\bin\Debug\StudentData.mdb
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\bin\Debug\Student_Information.exe.config
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\bin\Debug\Student_Information.exe
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\bin\Debug\Student_Information.pdb
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\bin\Debug\Student_Information.xml
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\obj\x86\Debug\Student_Information.vbproj.GenerateResource.Cache
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\obj\x86\Debug\Student_Information.exe
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\obj\x86\Debug\Student_Information.xml
+C:\Users\Mosam\Desktop\Student_Information\Student_Information\obj\x86\Debug\Student_Information.pdb
