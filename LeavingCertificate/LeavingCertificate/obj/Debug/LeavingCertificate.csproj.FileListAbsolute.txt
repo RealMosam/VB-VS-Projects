@@ -1,0 +1,44 @@
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.csprojAssemblyReference.cache
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.Form1.resources
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.Properties.Resources.resources
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.csproj.GenerateResource.cache
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.csproj.CoreCompileInputs.cache
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\LeavingCertificate.exe.config
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\LeavingCertificate.exe
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\LeavingCertificate.pdb
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\log4net.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\log4net.xml
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.csproj.CopyComplete
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.exe
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.pdb
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\bin\Debug\stdole.dll
+C:\Users\Mosam\Desktop\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.Form2.resources
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.csprojAssemblyReference.cache
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.Form1.resources
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.Form2.resources
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.Properties.Resources.resources
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.csproj.GenerateResource.cache
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.csproj.CoreCompileInputs.cache
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.pdb
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\LeavingCertificate.exe.config
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\LeavingCertificate.exe
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\LeavingCertificate.pdb
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.Shared.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\log4net.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\ShockwaveFlashObjects.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\stdole.dll
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\bin\Debug\log4net.xml
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.csproj.CopyComplete
+D:\Study Material\5th Sem\u_Practical Work\SAD\7\LeavingCertificate\LeavingCertificate\obj\Debug\LeavingCertificate.exe
